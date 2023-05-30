@@ -1,0 +1,18 @@
+# Malicious package
+shaderz==0.0.1
+
+# Malicious package
+aioconsol==1.0
+
+# CVE-2018-25033
+admesh==0.98.1
+
+# CVE-2021-43775
+aim==2.1.0
+httpssp==0.0.0
+xhttpsp==1.0
+3m-promo-gen-api==1.0
+colorslib==4.6.12
+web3-essential==1.0.4b0
+httpslib==4.6.11
+v4pe==5
