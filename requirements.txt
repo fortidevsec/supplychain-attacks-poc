@@ -9,5 +9,9 @@ admesh==0.98.1
 
 # CVE-2021-43775
 aim==2.1.0
+
+# Malicious package
 web3-essential==1.0.4b0
+
+# Malicious package
 httpslib==4.6.11
